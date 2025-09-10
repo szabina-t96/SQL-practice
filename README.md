@@ -1,10 +1,6 @@
 # SQL-practice
 It's my mini SQL project! It includes a custom dataset built in MySQL and a set of query challenges designed to test and improve your SQL skills.
 
-# SQL Practice Project: MySQL Dataset + Query Challenges
-
-Welcome to this mini SQL project! It includes a custom dataset built in MySQL and a set of query challenges designed to test and improve your SQL skills.
-
 ## Files Included
 
 - `create_dataset.sql` – Sets up the database schema and populates it with sample data.
