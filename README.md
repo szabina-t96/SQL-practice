@@ -3,7 +3,7 @@ It's my mini SQL project! It includes a custom dataset built in MySQL and a set 
 
 ## Files Included
 
-- `create_dataset.sql` – Sets up the database schema and populates it with sample data.
+- `create_dataset.zip` contains `create_dataset.sql` – Sets up the database schema and populates it with sample data.
 - `queries_and_solutions.sql` – Contains SQL questions (as comments) and their corresponding solutions.
 
 ## Getting Started
